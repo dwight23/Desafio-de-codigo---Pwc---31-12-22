@@ -10,4 +10,4 @@ Pode ser usado com ruas como "Rua Costa Barros, 25" como "100, Broadway Av"
 
 Aviso: Se houver uma letra ao lado do número o programa entenderá que é um complemento ao número
 
-Não pode ser usado com ruas com número. Ex: "Rua 14, 25" ou "Calle 44 No 144"
+Não deve ser usado com ruas com número. Ex: "Rua 14, 25" ou "Calle 44 No 144"
